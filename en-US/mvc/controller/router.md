@@ -10,7 +10,7 @@ When do we set the router? When we discussed the MVC structure of Beego, we lear
 ## Basic router
 From beego version 1.2 we began supporting a RESTful function router. The basic router includes the URI and closure function.
 
-## Import libs
+### Import libs
 You have to import libs beego context to use context as beego.FilterFunc
 ```
 import "github.com/astaxie/beego/context"
